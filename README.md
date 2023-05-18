@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Template do Projeto Frontend - TCC
+Este é um template de projeto frontend criado para servir como base para o desenvolvimento do projeto do grupo de TCC (Trabalho de Conclusão de Curso). Ele contém uma estrutura inicial e boas práticas recomendadas para o desenvolvimento de aplicações frontend.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objetivo
+O objetivo deste template é fornecer uma estrutura inicial sólida e seguir boas práticas de desenvolvimento frontend, permitindo que o grupo do TCC comece a desenvolver sua aplicação de forma eficiente e organizada.
 
-## Available Scripts
+## Utilização
+Se você é membro do grupo de TCC, este template é o ponto de partida para o desenvolvimento do projeto. Clone este repositório e utilize-o como base para criar sua aplicação frontend.
 
-In the project directory, you can run:
+Se você é um desenvolvedor interessado em utilizar este template para seus próprios projetos, sinta-se à vontade para clonar o repositório e utilizá-lo como ponto de partida. No entanto, esteja ciente de que este template foi desenvolvido com foco nas necessidades específicas do projeto do grupo de TCC e pode sofrer atualizações e modificações futuras para atender a essas necessidades.
 
-### `yarn start`
+## Recursos
+- Estrutura inicial do projeto com configuração básica para um aplicativo React.
+- Arquivos e diretórios organizados seguindo uma convenção comum.
+- Exemplos de componentes e estilos para ajudar no desenvolvimento inicial.
+- Classe `RequestService` para facilitar as requisições HTTP seguindo boas práticas de código limpo.
+- Componente `ErrorBoundary` para lidar com erros de forma consistente em toda a aplicação. TODO: documentar.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contribuição
+Este template de projeto é fornecido como está e é mantido pelo grupo do TCC. No entanto, se você encontrar bugs, problemas ou tiver sugestões de melhoria, fique à vontade para abrir uma issue neste repositório. Estamos abertos a contribuições da comunidade e faremos o possível para revisar e incorporar as alterações relevantes.
