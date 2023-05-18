@@ -1,5 +1,7 @@
 import React from 'react';
+
 import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -15,7 +17,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
+    >
           Learn React
         </a>
       </header>
